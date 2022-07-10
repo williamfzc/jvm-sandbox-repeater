@@ -43,7 +43,8 @@
     "mybatis",
     "ibatis",
     "dubbo-provider",
-    "dubbo-consumer"
+    "dubbo-consumer",
+    "record"
   ],
   "repeatIdentities": [
     "java",
